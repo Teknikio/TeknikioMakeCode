@@ -1,14 +1,13 @@
 declare namespace pins {
     //% fixedInstance shim=pxt::getPin(P0_2)
-    const P02: PwmPin;
+    const GPIO1: PwmPin;
     //% fixedInstance shim=pxt::getPin(P0_4)
-    const P04: PwmPin;
+    const GPIO2: PwmPin;
     //% fixedInstance shim=pxt::getPin(P0_28)
-    const P28: PwmPin;
+    const GPIO3: PwmPin;
     //% fixedInstance shim=pxt::getPin(P0_29)
-    const P29: PwmPin;
-    //% fixedInstance shim=pxt::getPin(P0_30)
-    const P30: PwmPin;
+    const GPIO4: PwmPin;
+
     
     
     //% fixedInstance shim=pxt::getPin(PIN_D13)
@@ -32,6 +31,8 @@ declare namespace pins {
     const RX: DigitalInOutPin;
     //% fixedInstance shim=pxt::getPin(PIN_TX)
     const TX: DigitalInOutPin;
+    //% fixedInstance shim=pxt::getPin(PIN_NEOPIXEL)
+    const NEOPIXEL: DigitalInOutPin;
 }
 
 declare namespace input {

@@ -9,4 +9,5 @@ namespace config {
     export const PIN_MOSI = DAL.P0_29;
     export const PIN_RX = DAL.P0_30;
     export const PIN_TX = DAL.P0_29;
+    export const PIN_NEOPIXEL = DAL.P0_14;
 }
