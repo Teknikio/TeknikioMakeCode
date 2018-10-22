@@ -21,6 +21,11 @@
         "name": "Misc",
         "url": "/boards/misc",
         "imageUrl": "/static/libs/redbear-ble-nano.jpg"  
+    },
+    {
+        "name": "Misc",
+        "url": "/boards/misc",
+        "imageUrl": "/static/libs/redbear-ble-nano.jpg"  
     }
 ]
 ```

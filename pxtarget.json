@@ -29,6 +29,7 @@
         "libs/electroniccats-meow-meow",
         "libs/sparkfun-samd21-dev-breakout",
         "libs/redbear-ble-nano",
+        "libs/bluebird",
         "libs/makefashion",
         "libs/tests",
         "libs/gamepad",

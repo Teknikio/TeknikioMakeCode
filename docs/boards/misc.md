@@ -11,6 +11,12 @@
         "imageUrl": "/static/libs/redbear-ble-nano.jpg"  
     },
     {
+        "name": "Teknikio Bluebird",
+        "url": "/boards/bluebird",
+        "cardType": "template",
+        "imageUrl": "/static/libs/redbear-ble-nano.jpg"  
+    },
+    {
         "name": "MakeFashion",
         "url": "/boards/makefashion",
         "cardType": "template",
