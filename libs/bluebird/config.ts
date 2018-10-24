@@ -1,5 +1,7 @@
 
 namespace config {
+     export const NUM_NEOPIXELS = 1;
+
     export const PIN_D13 = DAL.P0_11;
     export const PIN_LED = DAL.P0_11;
     export const PIN_SDA = DAL.P0_28;
